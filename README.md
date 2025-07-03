@@ -25,6 +25,7 @@
 ---
 
 ### 👩‍💻 About Me
+-📍 Based in Auckland, New Zealand  
 - 💻 Experienced in delivering kiosk and donation-based solutions using .NET Core and Azure
 - 🔬 Built academic projects around NLP and Machine Learning for mental health detection
 - ⚙️ Developed scalable APIs, real-time payment workflows, and QR-based receipt systems
@@ -50,7 +51,29 @@
 
 ---
 
+### ✨ Key Projects
+- **Kiosk Food Ordering System 🚀**  
+  Built a production-ready kiosk ordering platform integrated with Windcave & Verifone for secure, real-time transactions.
 
+- **Salon Booking App 💇‍♀️**  
+  Developed a full-featured booking platform supporting admins, employees, and customer modules.
+
+- **Uber-like Services Platform 🌐**  
+  Designed backend services for real-time location and service matching. Reduced latency and enhanced efficiency.
+
+---
+
+### 🧠 Academic Projects
+- **Depression Detection with NLP & ML 🧠**  
+  Created a high-accuracy classification model using TF-IDF, XGBoost, and Word Embeddings to identify causes of depression.
+
+- **Movie Recommendation System 🎬**  
+  Built a hybrid recommender using NCF and Matrix Factorization for personalized suggestions.
+
+- **Traffic Speed Detection 📊**  
+  Engineered a real-time traffic speed detection tool using ML and ReLU.
+
+---
 
 ### 📫 Connect with Me:
 <p align="left">
